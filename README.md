@@ -11,5 +11,5 @@
 ![](https://github.com/norlietasedurante/Project/blob/master/form.png)
 ![](https://github.com/norlietasedurante/Project/blob/master/complete.png)
 ![](https://github.com/norlietasedurante/Project/blob/master/table.png)
-![](https://github.com/norlietasedurante/Project/blob/master/edit table.png)
-![](https://github.com/norlietasedurante/Project/blob/master/na edit na .png)
+![](https://github.com/norlietasedurante/Project/blob/master/edittable.png)
+![](https://github.com/norlietasedurante/Project/blob/master/naeditna .png)
