@@ -8,6 +8,8 @@
 ![](https://github.com/norlietasedurante/Project/blob/master/rules.png)
 ![](https://github.com/norlietasedurante/Project/blob/master/rules1.png)
 ![](https://github.com/norlietasedurante/Project/blob/master/rules2.png)
+![](https://github.com/norlietasedurante/Project/blob/master/form.png)
+![](https://github.com/norlietasedurante/Project/blob/master/complete.png)
 ![](https://github.com/norlietasedurante/Project/blob/master/table.png)
 ![](https://github.com/norlietasedurante/Project/blob/master/edit table.png)
 ![](https://github.com/norlietasedurante/Project/blob/master/na edit na .png)
