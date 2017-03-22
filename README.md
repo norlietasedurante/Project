@@ -12,4 +12,4 @@
 ![](https://github.com/norlietasedurante/Project/blob/master/complete.png)
 ![](https://github.com/norlietasedurante/Project/blob/master/table.png)
 ![](https://github.com/norlietasedurante/Project/blob/master/edittable.png)
-![](https://github.com/norlietasedurante/Project/blob/master/naeditna .png)
+![](https://github.com/norlietasedurante/Project/blob/master/naeditna.png)
